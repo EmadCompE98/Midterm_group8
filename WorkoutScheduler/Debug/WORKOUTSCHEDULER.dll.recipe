@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\emada\UC\10Spring2022-SENIOR\SoftwareArchitecture\midterm project\builds\FoodCalculator\Debug\CORE.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\emada\UC\10Spring2022-SENIOR\SoftwareArchitecture\midterm project\builds\FoodCalculator\Debug\WORKOUTINFORMATION.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\emada\UC\10Spring2022-SENIOR\SoftwareArchitecture\midterm project\builds\FoodCalculator\Debug\WORKOUTSCHEDULER.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
